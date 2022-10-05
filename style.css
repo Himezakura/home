@@ -27,3 +27,9 @@ li{
   width:auto;
   height:80px;
 }
+
+.main{
+  background: url("https://github.com/Himezakura/home/blob/main/img/sky.jpg");
+  height:400px;
+  min-height:100vh
+}
