@@ -5,7 +5,7 @@ body{
 .home{
   padding-left:25px;
   padding-right:150px;
-  margin-top:10px;
+  margin-top:25px;
   font-size:20px;
   float:left;
 }
@@ -14,7 +14,10 @@ li{
   display: block;
   list-style:none;
   float:left;
-  padding:15px;
+  padding-top:30px;
+  padding-right:15px;
+  padding-left:15px;
+  padding-bottom:15px;
   text-align:right;
   margin-right: auto;
 }
@@ -22,5 +25,5 @@ li{
 .header{
   background-color:blue;
   width:auto;
-  height:65px;
+  height:80px;
 }
