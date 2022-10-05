@@ -1,0 +1,26 @@
+body{
+  font-family:"Lucida Grande";
+}
+
+.home{
+  padding-left:25px;
+  padding-right:150px;
+  margin-top:10px;
+  font-size:20px;
+  float:left;
+}
+
+li{
+  display: block;
+  list-style:none;
+  float:left;
+  padding:15px;
+  text-align:right;
+  margin-right: auto;
+}
+
+.header{
+  background-color:blue;
+  width:auto;
+  height:65px;
+}
